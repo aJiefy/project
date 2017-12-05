@@ -1,0 +1,172 @@
+
+
+#Head{
+	   
+}
+/*-------中件内容-------*/
+#MessageLeft{
+	text-align: right;
+}
+#MessageLeftHead{
+	border-bottom: 1px solid #B89D63;
+	height: 140px;
+	margin-bottom: 35px;
+}
+#PHead{
+	font-size: 41px;
+	padding: 0 0 14px 0;
+}
+#PBody{
+	font-size: 15px;
+	padding: 0 0 14px 0;
+	color: white;
+}
+#MessageImage{
+	text-align: center;
+	
+}
+#MessageImage img{
+	height: 500px;
+}
+#MessageRight{
+	text-align: left;
+}
+#MessageRight h4{
+	font-size: 16px;
+	margin: 11px 0 11px 0;
+}
+#MessageRight p{
+	font-size: 15px;
+	margin: 0 0 18px 0;
+	padding: 0 0 14px 0;
+	color: white;
+}
+#MessageRightBody{
+	margin-top: 15px;
+	padding: 10px 0 0 0;
+	border-top: 1px solid white;
+}
+
+
+/*-------翻页-------*/
+#PageChange{
+	margin: 80px 0 0 0;
+}
+#PageChange #a1{
+	float: left;
+	color: white;
+	background: #aaa;
+	height: 40px;
+	width: 120px;
+	text-align: center;
+	line-height: 40px;
+}
+#PageChange #a2{
+	float: right;
+	color: white;
+	background: #aaa;
+	height: 40px;
+	width: 70px;
+	text-align: center;
+	line-height: 40px;
+}
+#PageChange #a3{
+	float: right;
+	height: 40px;
+	width: 70px;
+	text-align: center;
+	line-height: 40px;
+}
+#buy{
+	padding-left:16px;
+}
+#buy #inputcss{
+	float:left;
+	height: 35px;
+	width: 90px;
+	line-height: 35px;
+	text-align: center;
+	/* margin: 0 15px 0 0; */
+}
+#buy #a1{
+	float:left;
+	height: 35px;
+	width: 35px;
+	line-height: 35px;
+	text-align: center;
+	background: #aaa;
+	color: white;
+	border:none;
+}
+#buy #a2{
+	float:left;
+	height: 35px;
+	width: 35px;
+	line-height: 35px;
+	text-align: center;
+	background: #aaa;
+	color: white;
+	border:none;
+}
+#buy #a3{
+	float:left;
+	background: #aaa;
+	color: white;
+	height: 35px;
+	width: 100px;
+	text-align: center;
+	line-height: 35px;
+	border:none;
+	font-family: Microsoft Yahei;
+}
+
+#buy #a3:hover{
+	color: black;
+	
+}
+
+#buy #a4{
+	float:left;
+}
+
+/*-------下方详细内容-------*/
+#Year{
+	text-align: center;
+}
+#YearChange{
+	border-top: 1px solid #b89d63;
+	margin: 20px auto; 
+}
+#YearChange p{
+	background-color:#b89d63 ; 
+	width: 120px;
+	margin: 0px auto;
+	color: white;
+}
+
+#informatP1{
+	text-align: center;
+	margin: 0px auto 20px auto;
+}
+#informatP2{
+	color: black;
+	font-size: 14px;
+	width:760px;
+}
+#informatP3{
+	color: black;
+	width: 160px;
+	font-size: 14px;
+}
+#informatDiv{
+	background: #b89d63;
+	padding: 15px;
+	color: white;
+	width: 760px;
+	font-size: 14px;
+	float:right;
+}
+#informatP4{
+	size: 14px;
+	color: white;
+}

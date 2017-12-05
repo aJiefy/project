@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//WebRoot/admin=UTF-8
+encoding//WebRoot/style/css/origin.css=UTF-8
+encoding//WebRoot/style/css/settings.css=UTF-8
+encoding//src/com/lafite/servlet/BackServlet.java=UTF-8
+encoding//src/com/lafite/servlet/PayServlet.java=UTF-8
+encoding//src/com/lafite/servlet/RandomCodeServlet.java=UTF-8
+encoding//src/com/lafite/util/PaymentUtil.java=UTF-8
+encoding/<project>=UTF-8
